@@ -2,8 +2,7 @@
 
 I'm passionate about coding and open-source projects. Welcome to my GitHub profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&lines=Passionate+about+Coding+And+Learning!;Developer+at+Upside+Down+Labs)
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&duration=4000&pause=1000&lines=Passionate+about+Coding+and+Learning!;Software+Developer)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=PayalLakra&theme=default&hide_border=true)](https://git.io/streak-stats)
