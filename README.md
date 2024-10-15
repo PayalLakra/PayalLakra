@@ -11,12 +11,5 @@ I'm passionate about coding and open-source projects. Welcome to my GitHub profi
 ## 💻 Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalLakra&layout=compact&theme=default&hide_border=true)](https://github.com/PayalLakra/github-readme-stats)
 
-## 🏆 GitHub Contributions
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=PayalLakra&theme=github)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=PayalLakra&theme=default&no-frame=true)
-
-
 
 
