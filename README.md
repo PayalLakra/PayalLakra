@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&duration=4000&pause=1000&lines=Passionate+about+Coding!)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&duration=4000&pause=1000&lines=Software+Developer+and+Tech-+Enthusiast!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&duration=4000&pause=1000&lines=Software+Developer+and+Tech-Enthusiast!)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=PayalLakra&theme=default&hide_border=true)](https://git.io/streak-stats)
