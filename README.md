@@ -1,6 +1,4 @@
-# Hi, I'm Payal! 👋
-
-I'm passionate about coding and open-source projects. Welcome to my GitHub profile!
+# Hi, I'm Payal Lakra! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&size=24&duration=4000&pause=1000&lines=Passionate+about+Coding!;Software+Developer)
 
