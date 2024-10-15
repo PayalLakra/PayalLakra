@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Payal! 👋
 
-<!--
-**PayalLakra/PayalLakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about coding and open-source projects. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=PayalLakra&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PayalLakra&show_icons=true&theme=default&hide_border=true)
+
+## 💻 Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalLakra&layout=compact&theme=default&hide_border=true)](https://github.com/PayalLakra/github-readme-stats)
+
+## 🏆 GitHub Contributions
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=PayalLakra&theme=github)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=PayalLakra&theme=default&no-frame=true)
+
+
+
+
