@@ -41,6 +41,7 @@ Here are a few projects I've worked on:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PayalLakra&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/PayalLakra=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
