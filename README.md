@@ -9,9 +9,9 @@
 ## 🛠️ Languages
 
 <p align="center">
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 </p>
 
 ---
