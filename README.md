@@ -16,8 +16,12 @@
 
 ## 🛠️ Technologies
 
+![Tkinter](https://img.shields.io/badge/-Tkinter-000?&logo=Python&logoColor=white)
+![PyQtGraph](https://img.shields.io/badge/-PyQtGraph-000?&logo=Python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![NeuroKit](https://img.shields.io/badge/-NeuroKit-000?&logo=data:image/svg+xml;base64,YOUR_BASE64_ENCODED_IMAGE)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-000?&logo=scipy&logoColor=white)
 
 ---
 
