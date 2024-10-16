@@ -21,8 +21,8 @@
 
 ## 💼 Projects
 Here are a few projects I've worked on:
-- [Chords-Python Tool](https://github.com/PayalLakra/Chords-Python-Tool.git): A tool for real-time bio-signal monitoring.
-- [Audio Visualizer](https://github.com/PayalLakra/audio-visualizer.git): An audio visualizer built using Python and PyQt5.
+- [Chords-Python Tool](https://github.com/PayalLakra/Chords-Python.git): A tool for real-time bio-signal monitoring.
+- [Audio Visualizer](https://github.com/PayalLakra/AudioVisualization.git): An audio visualizer built using Python and PyQt5.
 - [Sentiment Analysis pf Amazon Reviews](https://github.com/PayalLakra/Sentiment-Analysis-Using-Python.git):An Application to visualize Sentiment Distribution.
 - [Helping-Hands---A-Dynamic-Translator](https://github.com/PayalLakra/Helping-Hands---A-Dynamic-Translator.git):It is a Translator that translate Text-to-Text,Speech-to-Text,Speech-to-Speech,File-to-Speech,Text-to-Speech,Image-to-Speech.
 
