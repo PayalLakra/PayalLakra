@@ -19,6 +19,13 @@
 
 ---
 
+## 💼 Projects
+Here are a few projects I've worked on:
+- [BioAmp Tool](https://github.com/upsidedownlabs/BioAmp-Tool-Python): A tool for real-time bio-signal monitoring.
+- [Audio Visualizer](https://github.com/yourusername/audio-visualizer): An audio visualizer built using Python and PyQt5.
+
+---
+
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=PayalLakra&theme=default&hide_border=true)](https://git.io/streak-stats)
 
