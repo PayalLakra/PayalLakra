@@ -44,7 +44,9 @@ Here are a few projects I've worked on:
 ---
 
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/payal-lakra-767b5a247/) | [Mail](payallakra307@gmail.com)
+Connect with me: 
+-[LinkedIn](https://www.linkedin.com/in/payal-lakra-767b5a247/)
+-[E-Mail](payallakra307@gmail.com)
 
 
 
