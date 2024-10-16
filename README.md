@@ -6,7 +6,17 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages
+
+<p align="center">
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+</p>
+
+---
+
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40" alt="Python" />
