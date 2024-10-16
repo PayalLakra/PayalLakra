@@ -16,14 +16,8 @@
 
 ## 🛠️ Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="40" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="100" height="40" alt="Excel" />
-  <img src="https://img.shields.io/badge/Testing-008000?style=for-the-badge&logo=selenium&logoColor=white" width="100" height="40" alt="Testing" />
-  
-</p>
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![NeuroKit](https://img.shields.io/badge/-NeuroKit2-000?&logo=heartbeat&logoColor=red)
 
 ---
 
