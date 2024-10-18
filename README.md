@@ -51,7 +51,7 @@ Here are a few projects I've worked on:
 
 
 Connect with me: 
-- Email:[E-Mail](payallakra307@gmail.com)
+- Email:[payallakra307@gmail.com]
 - LinkedIn:[LinkedIn](https://www.linkedin.com/in/payal-lakra-767b5a247/)
 
 
