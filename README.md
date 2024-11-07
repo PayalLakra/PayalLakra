@@ -35,8 +35,7 @@ Here are a few projects I've worked on:
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PayalLakra](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PayalLakra)](https://git.io/streak-stats)
 ---
 
 ## 📊 GitHub Stats
