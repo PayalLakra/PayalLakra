@@ -22,6 +22,8 @@
 ![NeuroKit](https://img.shields.io/badge/-NeuroKit-000?&logo=data:image/svg+xml;base64,YOUR_BASE64_ENCODED_IMAGE)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-000?&logo=scipy&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask&logoColor=white)
 
 ---
 
