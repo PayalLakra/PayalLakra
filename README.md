@@ -1,8 +1,8 @@
 # Hi, I'm Payal Lakra! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=24&duration=4000&pause=1000&lines=I'm+Passionate+about+Coding!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=24&duration=4000&pause=1000&lines=Passionate+about+Coding!)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=24&duration=4000&pause=1000&lines=I'm+Python-Lover+and+Developer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=24&duration=4000&pause=1000&lines=Python-Lover+and+Developer!)
 
 ---
 
