@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Power BI](https://img.shields.io/badge/-SQL-000?&logo=PowerBI)
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 ---
 
